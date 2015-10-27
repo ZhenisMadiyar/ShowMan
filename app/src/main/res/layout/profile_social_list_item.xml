@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/soc_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff">
+
+        <Button
+            android:id="@+id/buttonVK"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="VK" />
+
+        <Button
+            android:id="@+id/buttonFB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Facebook" />
+
+        <Button
+            android:id="@+id/buttonTwitter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Twitter" />
+
+        <Button
+            android:id="@+id/buttonInstagram"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Instagram" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/soc_layout"
+        android:background="@android:color/darker_gray" />
+</RelativeLayout>

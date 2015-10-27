@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainTabActivity">
+    <item android:id="@+id/search"
+        android:icon="@mipmap/ic_action_action_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:showAsAction="always"/>
+    <item android:id="@+id/filtr"
+        android:icon="@mipmap/ic_action_filtr"
+        android:showAsAction="always"/>
+</menu>

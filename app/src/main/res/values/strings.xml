@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">ShowMan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="register"><u>Регистрация</u></string>
+    <string name="favourite">Для быстро поиска добавляйте ведущих в избранное</string>
+    <string name="search">Начните поиск ведущих или воспользуйтесь фильтром</string>
+    <string-array name="countries">
+
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua &amp; Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+    </string-array>
+
+    <string-array name="region">
+        <item>Алматы</item>
+        <item>Астана</item>
+        <item>Қарағанды</item>
+        <item>Тараз</item>
+        <item>Талдықорған</item>
+        <item>Ақтобе</item>
+        <item>Атырау</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>Казахский</item>
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+
+    <string-array name="opyt">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4+</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Категория1</item>
+        <item>Категория2</item>
+        <item>Категория3</item>
+        <item>Категория4</item>
+        <item>Категория5</item>
+        <item>Категория6</item>
+        <item>Категория7</item>
+    </string-array>
+    
+    <string-array name="event">
+        <item>Свадьба</item>
+        <item>Выпускной</item>
+        <item>Концерт</item>
+        <item>Той</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainTabActivity">
+    <item
+        android:id="@+id/add_note"
+        android:icon="@mipmap/ic_action_action_note_add"
+        android:showAsAction="always" />
+</menu>
